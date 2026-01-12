@@ -14,7 +14,7 @@
 "banner_slogan": "Publish your request and receive personalized offers from agencies",
 "create_request": "Create Request",
 "what_we_offer": "What we offer to our users...",
-"lets_use_vacanzamycost": "Let's Use VacanzaMycost.It",
+"lets_use_Travel Bangla": "Let's Use Travel Bangla",
 "publish_requests": "Publish the requests",
 "enter_travel_request": "Enter Your Travel Request",
 "in_just_a_few_clicks": "In Just A Few Clicks",
@@ -79,7 +79,7 @@
 "error_loading_agencies": "Error loading agencies. Please try again later.",
 "no_agencies_available": "No agencies available at the moment.",
 "easy_and_fast": "Easy and Fast",
-"why_use_vacanza": "WHY USE VacanzaMyCost.it?",
+"why_use_vacanza": "WHY USE Travel Bangla.it?",
 "verified_agencies_contact": "YOUR CONTACT INFORMATION STAYS PRIVATE",
 "verified_agencies_desc_decide": "You decide when and to whom to share it, only after choosing the offer you prefer",
 "no_commission": "NO COMMISSION",
@@ -94,7 +94,7 @@
 "ongoing": "Ongoing",
 "trip_to_rome": "Trip to Rome",
 "progress_40": "40% Completed",
-"start_earning": "Start Earning on VacanzaMyCost.it",
+"start_earning": "Start Earning on Travel Bangla.it",
 "add_your_agency": "Register Your Agency and Receive Real Requests",
 "agency_desc_1": "Join the platform where travelers publish verified requests and look for reliable agencies for personalized offers.",
 "agency_desc_2": "Manage everything easily: receive direct inquiries, send complete offers, and grow your business with zero commissions.",
@@ -631,7 +631,7 @@
 "error_verifying_email": "Error verifying your email. Please try again.",
 "background": "Background",
 "background_image": "Background image",
-"welcome_to_frework": "Welcome to VacanzaMyCost.it",
+"welcome_to_frework": "Welcome to Travel Bangla.it",
 "email_placeholder": "user@gmail.com",
 "password": "Password",
 "password_required": "Password is required",
@@ -676,7 +676,7 @@
 "terms_and_conditions": "Terms and Conditions",
 "privacy_policy": "Privacy Policy",
 "who_work": "How it works ",
-"show_short_description": "Free, without obligation",
+"show_short_description": "Save platform for travelers and agencies",
 "description_required" : "Description is required",
 "create_your_tour_plan": "Create Your Tour Plan",
 "step_of": "Step {{current}} of {{total}}",
@@ -734,12 +734,12 @@
 "google_maps_load_failed": "Failed to load Google Maps",
 "google_maps_not_available": "Google Places not available",
 "privacy": {
-"title": "PRIVACY & COOKIE POLICY – VacanzaMyCost.it Updated Version 2025 – GDPR compliant (EU 2016/679) + ePrivacy Directive",
+"title": "PRIVACY & COOKIE POLICY – Travel Bangla.it Updated Version 2025 – GDPR compliant (EU 2016/679) + ePrivacy Directive",
 "1": {
 "title": "Data Controller",
 "type": "Individual Entrepreneur",
 "address": "Registered Office",
-"text": "The controller is responsible for the processing of personal data collected through the website VacanzaMyCost.it."
+"text": "The controller is responsible for the processing of personal data collected through the website Travel Bangla.it."
 },
 "2": { "title": "Types of Data Collected" },
 "2_1": {
@@ -781,7 +781,7 @@
 },
 "8": {
 "title": "Data Subject Rights (Art. 15–22 GDPR)",
-"text": "The user may at any time exercise the following rights:\naccess to data · rectification · erasure (“right to be forgotten”) · restriction of processing · data portability · objection · withdrawal of consent\nRequests via email: privacy@vacanzamycost.it\nThe controller replies within 30 days."
+"text": "The user may at any time exercise the following rights:\naccess to data · rectification · erasure (“right to be forgotten”) · restriction of processing · data portability · objection · withdrawal of consent\nRequests via email: privacy@Travel Bangla.it\nThe controller replies within 30 days."
 },
 "9": {
 "title": "Technical and Organizational Security Measures",
@@ -825,22 +825,22 @@
 },
 "13": {
 "title": "Contact",
-"text": "For information, clarifications or to exercise GDPR rights:\nprivacy@vacanzamycost.it"
+"text": "For information, clarifications or to exercise GDPR rights:\nprivacy@Travel Bangla.it"
 }
 },
 "terms": {
-"title": "TERMS AND CONDITIONS OF USE – VACANZAMYCOST.IT Version 2025 – Italy & EU",
+"title": "TERMS AND CONDITIONS OF USE – Travel Bangla.IT Version 2025 – Italy & EU",
 "1": {
 "title": "Website Owner",
-"text": "VacanzaMyCost.it is a web portal managed by:\nIlie Fabian – Individual Entrepreneur\nVAT: [INSERT] – Verona (VR)\nEmail: info@vacanzamycost.it – PEC: [INSERT IF ACTIVE]"
+"text": "Travel Bangla.it is a web portal managed by:\nIlie Fabian – Individual Entrepreneur\nVAT: [INSERT] – Verona (VR)\nEmail: info@Travel Bangla.it – PEC: [INSERT IF ACTIVE]"
 },
 "2": {
 "title": "Nature of the Service",
-"text": "VacanzaMyCost.it is not a travel agency and does not sell travel packages.\nThe site provides a digital service for:\n• publishing user requests\n• sharing them with registered agencies\n• receiving up to 3 offers\n• direct contact between users and agencies\nAll negotiations take place outside the portal."
+"text": "Travel Bangla.it is not a travel agency and does not sell travel packages.\nThe site provides a digital service for:\n• publishing user requests\n• sharing them with registered agencies\n• receiving up to 3 offers\n• direct contact between users and agencies\nAll negotiations take place outside the portal."
 },
 "3": {
 "title": "No Mediation Activity",
-"text": "VacanzaMyCost.it does not carry out mediation activities.\nIt does not receive commissions or fees.\nIt does not participate in the conclusion of contracts between users and agencies."
+"text": "Travel Bangla.it does not carry out mediation activities.\nIt does not receive commissions or fees.\nIt does not participate in the conclusion of contracts between users and agencies."
 },
 "4": {
 "title": "Limitation of Liability",
@@ -848,11 +848,11 @@
 },
 "5": {
 "title": "No Guarantee on Offers",
-"text": "VacanzaMyCost.it does not guarantee:\n• quality of offers\n• availability of services\n• price accuracy\n• conformity of information"
+"text": "Travel Bangla.it does not guarantee:\n• quality of offers\n• availability of services\n• price accuracy\n• conformity of information"
 },
 "6": {
 "title": "Exclusion of Liability for Payments",
-"text": "VacanzaMyCost.it does not handle deposits, refunds or payments between users and agencies."
+"text": "Travel Bangla.it does not handle deposits, refunds or payments between users and agencies."
 },
 "7": {
 "title": "Intellectual Property",
@@ -864,7 +864,7 @@
 },
 "9": {
 "title": "Files and Attachments",
-"text": "VacanzaMyCost.it is not responsible for files or documents uploaded by third parties."
+"text": "Travel Bangla.it is not responsible for files or documents uploaded by third parties."
 },
 "10": {
 "title": "Agency Subscriptions",
@@ -892,7 +892,7 @@
 },
 "16": {
 "title": "ODR Clause (EU Mandatory)",
-"text": "Complaints can be sent to info@vacanzamycost.it.\nEU ODR Platform: https://ec.europa.eu/consumers/odr\nThe owner is not obliged to participate in ADR procedures."
+"text": "Complaints can be sent to info@Travel Bangla.it.\nEU ODR Platform: https://ec.europa.eu/consumers/odr\nThe owner is not obliged to participate in ADR procedures."
 },
 "17": {
 "title": "Jurisdiction",
@@ -900,7 +900,7 @@
 }
 },
 "howItWorks": {
-"pageTitle": "How VacanzaMyCost.it Works",
+"pageTitle": "How Travel Bangla.it Works",
 "subtitle": "In 7 simple steps you find the perfect vacation – free and with no middlemen",
 "1": {
 "title": "Publish your request",
@@ -916,7 +916,7 @@
 },
 "4": {
 "title": "Contact the agency directly",
-"desc": "When you find the right offer, you contact the agency by phone, WhatsApp, or email. VacanzaMyCost.it does not apply commissions and does not manage payments. Negotiation is direct and transparent."
+"desc": "When you find the right offer, you contact the agency by phone, WhatsApp, or email. Travel Bangla.it does not apply commissions and does not manage payments. Negotiation is direct and transparent."
 },
 "5": {
 "title": "Offer confirmed",

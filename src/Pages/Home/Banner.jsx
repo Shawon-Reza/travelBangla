@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import img from "../../assets/img/background.jpg";
-import img1 from "../../assets/img/banner.png";
+import img1 from "../../assets/img/logo2.png";
 import { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import BannerSectionPopup from "./BannerSectionPupup";
@@ -98,12 +98,16 @@ const Banner = () => {
           alt="Logo"
           className="w-[220px] md:w-[500px] lg:w-[600px] lg:mt-3 mt-1 md:mt-16"
         />
-        <h1 className="lg:text-4xl text-[16px] font-semibold text-blue-950 lg:pb-5 pb-2">
-          {t("banner_tagline")}
-        </h1>
-        <p className="mt-2 text-[24px] md:text-[40px] lg:text-[42px] font-bold md:leading-[48px] lg:leading-[50px] text-white drop-shadow-sm max-w-[90%]">
-          {t("banner_slogan")}
+         <p className="mt-2 text-[24px] md:text-[40px] lg:text-[42px] font-bold md:leading-[48px] lg:leading-[50px] text-white drop-shadow-sm max-w-[90%]">
+          {/* {t("banner_slogan")} */}
+          Welcome to TravelBangla 🌍
         </p>
+        <h1 className="lg:text-4xl text-[16px] font-semibold text-blue-950 lg:pb-5 pb-2 max-w-2xl xl:max-w-5xl">
+          {/* {t("banner_tagline")} */}
+          
+          Tell us where you want to go, and let expert travel agencies create the best offers just for you. Simple, flexible, and completely free.
+        </h1>
+       
         <p className="py-3 lg:text-2xl text-[15px]">{t("show_short_description")}</p>
         {showCreateRequestButton && (
           <button

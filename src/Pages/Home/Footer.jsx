@@ -9,9 +9,9 @@ const Footer = () => {
     <footer className="bg-gray-900 text-white py-10">
   <div className="container mx-auto px-4 md:hidden">
     <div className="grid grid-cols-2 gap-10 text-start">
-      {/* VacanzaMyCost.it */}
+      {/* Travel Bangla.it */}
       <div className="space-y-4">
-        <h3 className="text-2xl font-bold text-gray-100">VacanzaMyCost.it</h3>
+        <h3 className="text-2xl font-bold text-gray-100">Travel Bangla.it</h3>
         <p className="text-sm text-gray-400">
           {t("address_line1")} <br />
           {t("address_line2")}
@@ -51,7 +51,7 @@ const Footer = () => {
     <div className="flex justify-between items-start container mx-auto ">
       {/* Left: Company Info */}
       <div className="space-y-4">
-        <h3 className="text-3xl font-bold text-gray-100">VacanzaMyCost.it</h3>
+        <h3 className="text-3xl font-bold text-gray-100">Travel Bangla.it</h3>
         <p className="text-sm text-gray-400">
           {t("address_line1")} <br />
           {t("address_line2")}

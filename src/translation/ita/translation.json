@@ -14,7 +14,7 @@
 "banner_slogan": "Pubblica la tua richiesta e ricevi offerte personalizzate dalle agenzie",
 "create_request": "Crea Richiesta",
 "what_we_offer": "Cosa offriamo ai nostri utenti...",
-"lets_use_vacanzamycost": "Come funziona VacanzaMyCost.it",
+"lets_use_Travel Bangla": "Come funziona Travel Bangla.it",
 "publish_requests": "Pubblica richiesta",
 "enter_travel_request": "Inserisci la tua richiesta ",
 "in_just_a_few_clicks": "Il nostro servizio in 3 semplici step",
@@ -82,7 +82,7 @@
 "easy_and_fast": "Facile e Veloce",
 "verified_agencies_contact": "LE TUE INFORMAZIONI DI CONTATTO RESTANO PRIVATE",
 "verified_agencies_desc_decide": "Le tue informazioni di contatto restano private.\nSarai tu a decidere quando e a chi comunicarle, solo dopo aver scelto l’offerta che preferisci.",
-"why_use_vacanza": "Perché usare VacanzaMyCost.it",
+"why_use_vacanza": "Perché usare Travel Bangla.it",
 "no_commission": "NESSUNA COMMISSIONE",
 "no_commission_desc": "Contatti direttamente l’agenzia e paghi solo la tua vacanza, senza costi nascosti o spese extra.",
 "fast_replies": "RISPOSTE VELOCI",
@@ -95,7 +95,7 @@
 "ongoing": "In corso",
 "trip_to_rome": "Viaggio a Roma",
 "progress_40": "40% Completato",
-"start_earning": "Inizia a Guadagnare su VacanzaMyCost.it",
+"start_earning": "Inizia a Guadagnare su Travel Bangla.it",
 "add_your_agency": "Registra la tua Agenzia e Ricevi Richieste Reali",
 "agency_desc_1": "Entra nella piattaforma dove i viaggiatori pubblicano richieste verificate e cercano agenzie affidabili per offerte personalizzate.",
 "agency_desc_2": "Gestisci tutto facilmente: ricevi richieste dirette, invia preventivi completi e fai crescere il tuo business senza commissioni.",
@@ -116,12 +116,12 @@
 "facebook": "Facebook",
 "twitter": "Twitter",
 "linkedin": "LinkedIn",
-"company_name": "VacanzaMyCost.it",
+"company_name": "Travel Bangla.it",
 "all_rights_reserved": "Tutti i diritti riservati",
 "privacy_notice": "Informativa sulla Privacy",
 "terms_of_service": "Termini e Condizioni",
 "search_for_tour_planner": "Agenzie di Viaggio Verificate",
-"all_posted_tour_plans": "Tutte le agenzie registrate su VacanzaMyCost.it, pronte a inviarti offerte personalizzate senza commissioni.",
+"all_posted_tour_plans": "Tutte le agenzie registrate su Travel Bangla.it, pronte a inviarti offerte personalizzate senza commissioni.",
 "search_placeholder": "Cerca qui...",
 "search_tour_plans": "Cerca piani di viaggio",
 "search": "Cerca",
@@ -631,7 +631,7 @@
 "error_verifying_email": "Errore nella verifica dell'email. Riprova.",
 "background": "Sfondo",
 "background_image": "Immagine di sfondo",
-"welcome_to_frework": "Benvenuto su VacanzaMyCost.it",
+"welcome_to_frework": "Benvenuto su Travel Bangla.it",
 "email_placeholder": "user@gmail.com",
 "read_more":"Vedi di più",
 "password": "Password",
@@ -733,12 +733,12 @@
 "google_maps_load_failed": "Impossibile caricare Google Maps",
 "google_maps_not_available": "Google Places non disponibile",
 "privacy": {
-"title": "PRIVACY & COOKIE POLICY – VacanzaMyCost.it Versione aggiornata 2025 – conforme a GDPR (UE 2016/679) + Direttiva ePrivacy",
+"title": "PRIVACY & COOKIE POLICY – Travel Bangla.it Versione aggiornata 2025 – conforme a GDPR (UE 2016/679) + Direttiva ePrivacy",
 "1": {
 "title": "Titolare del trattamento",
 "type": "Imprenditore individuale",
 "address": "Sede",
-"text": "Il titolare è responsabile del trattamento dei dati personali raccolti tramite il sito VacanzaMyCost.it."
+"text": "Il titolare è responsabile del trattamento dei dati personali raccolti tramite il sito Travel Bangla.it."
 },
 "2": { "title": "Tipologia di dati raccolti" },
 "2_1": {
@@ -780,7 +780,7 @@
 },
 "8": {
 "title": "Diritti dell’interessato (artt. 15–22 GDPR)",
-"text": "L’utente può esercitare in qualsiasi momento:\naccesso ai dati · rettifica · cancellazione (“diritto all’oblio”) · limitazione · portabilità · opposizione · revoca del consenso\nRichieste via email: privacy@vacanzamycost.it\nIl titolare risponde entro 30 giorni."
+"text": "L’utente può esercitare in qualsiasi momento:\naccesso ai dati · rettifica · cancellazione (“diritto all’oblio”) · limitazione · portabilità · opposizione · revoca del consenso\nRichieste via email: privacy@Travel Bangla.it\nIl titolare risponde entro 30 giorni."
 },
 "9": {
 "title": "Misure di sicurezza tecniche e organizzative",
@@ -824,22 +824,22 @@
 },
 "13": {
 "title": "Contatti",
-"text": "Per informazioni, chiarimenti o esercizio diritti GDPR:\nprivacy@vacanzamycost.it"
+"text": "Per informazioni, chiarimenti o esercizio diritti GDPR:\nprivacy@Travel Bangla.it"
 }
 },
 "terms": {
-"title": "TERMINI E CONDIZIONI D’USO – VACANZAMYCOST.IT Versione 2025 – Italia & UE",
+"title": "TERMINI E CONDIZIONI D’USO – Travel Bangla.IT Versione 2025 – Italia & UE",
 "1": {
 "title": "Titolare del sito",
-"text": "VacanzaMyCost.it è un portale web gestito da:\nIlie Fabian – Imprenditore individuale\nP.IVA: [INSERISCI] – Verona (VR)\nEmail: info@vacanzamycost.it – PEC: [INSERISCI SE ATTIVA]"
+"text": "Travel Bangla.it è un portale web gestito da:\nIlie Fabian – Imprenditore individuale\nP.IVA: [INSERISCI] – Verona (VR)\nEmail: info@Travel Bangla.it – PEC: [INSERISCI SE ATTIVA]"
 },
 "2": {
 "title": "Natura del servizio",
-"text": "VacanzaMyCost.it non è un’agenzia di viaggi e non vende pacchetti turistici.\nIl sito offre un servizio digitale per:\n• pubblicazione richieste degli utenti\n• condivisione alle agenzie registrate\n• ricezione di massimo 3 offerte\n• contatto diretto tra utenti e agenzie\nTutte le trattative avvengono fuori dal portale."
+"text": "Travel Bangla.it non è un’agenzia di viaggi e non vende pacchetti turistici.\nIl sito offre un servizio digitale per:\n• pubblicazione richieste degli utenti\n• condivisione alle agenzie registrate\n• ricezione di massimo 3 offerte\n• contatto diretto tra utenti e agenzie\nTutte le trattative avvengono fuori dal portale."
 },
 "3": {
 "title": "Nessun rapporto di mediazione",
-"text": "VacanzaMyCost.it non svolge attività di mediazione.\nNon percepisce commissioni o provvigioni.\nNon partecipa alla conclusione dei contratti tra utenti e agenzie."
+"text": "Travel Bangla.it non svolge attività di mediazione.\nNon percepisce commissioni o provvigioni.\nNon partecipa alla conclusione dei contratti tra utenti e agenzie."
 },
 "4": {
 "title": "Limitazione di responsabilità",
@@ -847,11 +847,11 @@
 },
 "5": {
 "title": "Nessuna garanzia delle offerte",
-"text": "VacanzaMyCost.it non garantisce:\n• qualità delle offerte\n• disponibilità dei servizi\n• correttezza dei prezzi\n• conformità delle informazioni"
+"text": "Travel Bangla.it non garantisce:\n• qualità delle offerte\n• disponibilità dei servizi\n• correttezza dei prezzi\n• conformità delle informazioni"
 },
 "6": {
 "title": "Esclusione responsabilità pagamenti",
-"text": "VacanzaMyCost.it non gestisce caparre, depositi, rimborsi o pagamenti tra utenti e agenzie."
+"text": "Travel Bangla.it non gestisce caparre, depositi, rimborsi o pagamenti tra utenti e agenzie."
 },
 "7": {
 "title": "Proprietà intellettuale",
@@ -863,7 +863,7 @@
 },
 "9": {
 "title": "File e allegati",
-"text": "VacanzaMyCost.it non è responsabile per file o documenti caricati da terzi."
+"text": "Travel Bangla.it non è responsabile per file o documenti caricati da terzi."
 },
 "10": {
 "title": "Abbonamenti agenzie",
@@ -891,7 +891,7 @@
 },
 "16": {
 "title": "Clausola ODR (Obbligatoria UE)",
-"text": "I reclami possono essere inviati a info@vacanzamycost.it.\nPiattaforma UE ODR: https://ec.europa.eu/consumers/odr\nIl titolare non è obbligato a partecipare a procedure ADR."
+"text": "I reclami possono essere inviati a info@Travel Bangla.it.\nPiattaforma UE ODR: https://ec.europa.eu/consumers/odr\nIl titolare non è obbligato a partecipare a procedure ADR."
 },
 "17": {
 "title": "Foro competente",
@@ -899,7 +899,7 @@
 }
 },
 "howItWorks": {
-"pageTitle": "Come Funziona VacanzaMyCost.it",
+"pageTitle": "Come Funziona Travel Bangla.it",
 "subtitle": "In 7 semplici passaggi trovi la vacanza perfetta, gratis e senza intermediazioni",
 "1": {
 "title": "Pubblica la tua richiesta",
@@ -915,7 +915,7 @@
 },
 "4": {
 "title": "Contatta direttamente l’agenzia",
-"desc": "Quando trovi l’offerta giusta, contatti l’agenzia via telefono, WhatsApp o email. VacanzaMyCost.it non applica commissioni e non gestisce pagamenti. La trattativa è diretta e trasparente."
+"desc": "Quando trovi l’offerta giusta, contatti l’agenzia via telefono, WhatsApp o email. Travel Bangla.it non applica commissioni e non gestisce pagamenti. La trattativa è diretta e trasparente."
 },
 "5": {
 "title": "Offerta confermata",
@@ -933,7 +933,7 @@
 "faq_title": "DOMANDE FREQUENTI",
 "faq": [
 {
-"question": "Perché scegliere VacanzaMyCost.it?",
+"question": "Perché scegliere Travel Bangla.it?",
 "answer": "Perché non ricevi offerte generiche: ottieni solo proposte personalizzate da agenzie reali, basate sulla tua richiesta. Il servizio è gratuito, trasparente e senza commissioni. Contatti direttamente l’agenzia e scegli l’offerta migliore per te."
 },
 {

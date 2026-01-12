@@ -1,5 +1,5 @@
 "use client";
-import img from "../../assets/img/1000062305-removebg-preview.png";
+import img from "../../assets/img/logo2.png";
 import { useState, useEffect, useRef } from "react";
 import { NavLink, Outlet, useLocation, useNavigate } from "react-router-dom";
 import {
@@ -146,7 +146,7 @@ export default function UserDashboardLayout() {
       return;
     }
    
-    const baseUrl = "api.vacanzamycost.com";
+    const baseUrl = "api.Travel Bangla.com";
     const socketUrl = `wss://${baseUrl}/ws/notification-count/?token=${token}`;
     ws.current = new WebSocket(socketUrl);
 

@@ -4,7 +4,7 @@ import i18n from "../../../i18n.js";
 
 const LanguageToggleButton = () => {
   const { t } = useTranslation();
-  const [currentLang, setCurrentLang] = useState(i18n.language || "en");
+  const [currentLang, setCurrentLang] = useState("en");
 
   useEffect(() => {
     const changeHandler = (lng) => {

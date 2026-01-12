@@ -22,8 +22,8 @@ const Privacy = () => {
             P.IVA: [INSERISCI]<br />
             {t('privacy.1.address')}: Verona (VR) – Italia<br />
             Email:{' '}
-            <a href="mailto:privacy@vacanzamycost.it" className="text-blue-600 hover:underline">
-              privacy@vacanzamycost.it
+            <a href="mailto:privacy@Travel Bangla.it" className="text-blue-600 hover:underline">
+              privacy@Travel Bangla.it
             </a>
           </p>
           <p className="mt-3">{t('privacy.1.text')}</p>
@@ -168,7 +168,7 @@ const Privacy = () => {
       </div>
 
       <p className="text-center text-gray-600 mt-16 text-sm">
-        © 2025 VacanzaMyCost.it – Tutti i diritti riservati.
+        © 2025 Travel Bangla.it – Tutti i diritti riservati.
       </p>
     </div>
   );

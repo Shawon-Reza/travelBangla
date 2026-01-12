@@ -5,6 +5,9 @@ import { useShowUserInpormationQuery } from "@/redux/features/withAuth";
 import img from "../../assets/img/1000062305-removebg-preview.png";
 import LanguageToggleButton from "./LanguageToggleButton";
 import { useTranslation } from "react-i18next";
+import logo from "../../assets/img/download.png";
+
+
 const Navbar = () => {
   const { t } = useTranslation();
   const location = useLocation();
@@ -31,7 +34,7 @@ const Navbar = () => {
     "/tourPlans": "tours",
     "/acceptedOffers": "acceptedOffers",
     "/contact": "contact",
-    "/who_it_work": "howitworks", 
+    "/who_it_work": "howitworks",
     "/user/editProfile": "profile",
     "/user/profile": "profile",
   };
@@ -105,7 +108,7 @@ const Navbar = () => {
     <nav className="w-full bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between fixed top-0 left-0 right-0 z-50">
       {/* Logo */}
       <NavLink to="/">
-        <img src={img} className="h-8 lg:h-11" alt="VacanzaMyCost.it" />
+        <img src={logo} className="h-8 lg:h-11 hover:scale-110 " alt="Travel Bangla.it" />
       </NavLink>
 
       {/* Hamburger - Mobile */}
@@ -130,11 +133,10 @@ const Navbar = () => {
           <NavLink
             key={item.key}
             to={item.path}
-            className={`text-[18px] font-medium transition-colors ${
-              activeLink === item.key
-                ? "text-[#2464EC] border-b-2 border-[#2464EC] pb-1"
-                : "text-gray-700 hover:text-[#2464EC]"
-            }`}
+            className={`text-[18px] font-medium transition-colors ${activeLink === item.key
+              ? "text-[#2464EC] border-b-2 border-[#2464EC] pb-1"
+              : "text-gray-700 hover:text-[#2464EC]"
+              }`}
             onClick={() => handleLinkClick(item.key, item.path)}
           >
             {item.label}
@@ -227,11 +229,10 @@ const Navbar = () => {
                 <NavLink
                   key={item.key}
                   to={item.path}
-                  className={`text-lg font-medium py-2 text-center rounded-lg transition ${
-                    activeLink === item.key
-                      ? "text-[#2464EC] bg-blue-50"
-                      : "text-gray-700 hover:bg-gray-100"
-                  }`}
+                  className={`text-lg font-medium py-2 text-center rounded-lg transition ${activeLink === item.key
+                    ? "text-[#2464EC] bg-blue-50"
+                    : "text-gray-700 hover:bg-gray-100"
+                    }`}
                   onClick={() => handleLinkClick(item.key, item.path)}
                 >
                   {item.label}

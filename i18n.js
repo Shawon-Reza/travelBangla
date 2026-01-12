@@ -10,7 +10,7 @@ const resources = {
   ita: { translation: ita },
 };
 
-const savedLanguage = localStorage.getItem("i18nextLng") || "ita";
+const savedLanguage = localStorage.getItem("i18nextLng") || "en";
 
 i18n
   .use(LanguageDetector) 
